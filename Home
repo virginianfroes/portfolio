@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Virgínia Fróes — Technical Writer</title>
+</head>
+<body>
+  <header>
+    <h1>Virgínia Fróes</h1>
+    <p>Technical Writer focada em documentação, knowledge management e product education</p>
+  </header>
+
+  <main>
+    <p>Portfólio em construção — em breve, estudos de caso e amostras de escrita técnica por aqui.</p>
+  </main>
+
+  <footer>
+    <p>Contato: <a href="mailto:vngbfroes@gmail.com">vngbfroes@gmail.com</a></p>
+  </footer>
+</body>
